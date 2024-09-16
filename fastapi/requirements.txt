@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow
+pydantic
+python-jose
+python-multipart
+Pillow
+numpy
+sqlalchemy
+psycopg2-binary
+nltk

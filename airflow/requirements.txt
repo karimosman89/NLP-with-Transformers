@@ -1,0 +1,10 @@
+nltk
+tensorflow
+typing-extensions>=4.6.0
+scikit-learn
+json
+os
+pickle
+datetime
+numpy
+pandas
